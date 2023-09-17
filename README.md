@@ -8,7 +8,7 @@
 </p>
 
 ### About Me
-- 🔭 I’m currently working in **[Sysarb](https://www.sysarb.se/ "Sysarb's Homepage)** 
+- 🔭 I’m currently working in **[Sysarb](https://www.sysarb.se/ "Sysarb's Homepage")** 
 - 🌱 I’m currently learning **Django**
 
 ### My GitHub stats 
