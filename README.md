@@ -8,9 +8,8 @@
 </p>
 
 ### About Me
-- 🔭 I’m currently working in **[PharusTech](https://pharustech.io/ "PharusTech's Homepage")** 
+- 🔭 I’m currently working in **[Sysarb](https://www.sysarb.se/ "Sysarb's Homepage)** 
 - 🌱 I’m currently learning **Django**
-- 📚 I'm currently reading **Serious Python Black-Belt Advice on Deployment, Scalability, Testing, and More by Julien Danjou**
 
 ### My GitHub stats 
 
