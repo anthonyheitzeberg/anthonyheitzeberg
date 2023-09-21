@@ -9,7 +9,9 @@
 
 ### About Me
 - 🔭 I’m currently working in **[Sysarb](https://www.sysarb.se/ "Sysarb's Homepage")** 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Astro and Vue**
+- 📘 I'm currently reading **Design Patterns: Element of Reusable Object-Oriented Software**
+- ⚽ Football is my favorite sport 🥇
 
 ### My GitHub stats 
 
