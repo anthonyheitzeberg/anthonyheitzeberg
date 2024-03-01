@@ -15,6 +15,6 @@
 
 ### My GitHub stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnthonyHeitzeberg&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anthonycheitzeberg&count_private=true&show_icons=true" />
 
 
