@@ -7,6 +7,10 @@
 <a href="https://www.hackerrank.com/a_heitzeberg007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_heitzeberg007" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/DarrelMendoza/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=anthonycheitzeberg&style=for-the-badge&base=20000&color=blue">
+</a>
+
 ### About Me
 - 🔭 I’m currently working in **[Sysarb](https://www.sysarb.se/ "Sysarb's Homepage")** 
 - 🌱 I’m currently learning **Django, Astro and Vue**
