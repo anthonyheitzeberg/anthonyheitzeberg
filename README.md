@@ -12,9 +12,8 @@
 </a>
 
 ### About Me
-- 🔭 I’m currently seeking for a new opportunity
-- 🌱 I’m currently learning **Django, Astro and Vue**
-- 📘 I'm currently reading **DEEP LEARNING with Python by François Chollet**
+- 🔭 I'm a Application Development Engineer II @ **Centene** under **Apex Systems**
+- 📘 I'm currently reading **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann**
 - ⚽ Football is my favorite sport 🥇
 
 ### My GitHub stats 
