@@ -12,7 +12,7 @@
 </a>
 
 ### About Me
-- 🔭 I'm a Application Development Engineer II @ **Centene** under **Apex Systems**
+- 🔭 I'm an Application Development Engineer II @ **Centene** under **Apex Systems**
 - 📘 I'm currently reading **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann**
 - ⚽ Football is my favorite sport 🥇
 
