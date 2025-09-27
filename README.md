@@ -22,6 +22,6 @@
 
 ### My DevCard
 
-<a href="https://app.daily.dev/anthonyheitzeberg"><img src="https://api.daily.dev/devcards/v2/kkHQAY0PX38BlSxnky6pJ.png?type=default&r=hb7" width="356" alt="Anthony Heitzeberg's Dev Card"/></a>
+<a href="https://app.daily.dev/anthonyheitzeberg"><img src="https://api.daily.dev/devcards/v2/kkHQAY0PX38BlSxnky6pJ.png?type=wide&r=bvr" width="652" alt="Anthony Heitzeberg's Dev Card"/></a>
 
 
