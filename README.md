@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=anthonycheitzeberg&style=for-the-badge&base=20000&color=blue">
 </a>
 
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/c9b58168-1841-44c2-b32b-c66310c09395/thumbnail" >
 </p>
 
