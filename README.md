@@ -11,9 +11,12 @@
     <img src="https://komarev.com/ghpvc/?username=anthonycheitzeberg&style=for-the-badge&base=20000&color=blue">
 </a>
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/c9b58168-1841-44c2-b32b-c66310c09395/thumbnail" >
+</p>
+
 ### About Me
 - 🔭 I'm an Application Development Engineer II @ **Centene** under **Apex Systems**
-- 📘 I'm currently reading **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann**
 - ⚽ Football is my favorite sport 🥇
 
 ### My GitHub stats 
