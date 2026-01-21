@@ -1,30 +1,97 @@
-### Hi there, I'm Anthony 👋
+# Hi I'm Anthony 👋
 
-[![](https://img.shields.io/badge/-@AnthonyHeitzeberg-%23181717?style=flat-square&logo=github)](https://github.com/AnthonyHeitzeberg)
-[![](https://img.shields.io/badge/-Anthony%20Heitzeberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-heitzeberg-5537b2179/)](https://www.linkedin.com/in/anthony-heitzeberg-5537b2179/)
-[![](https://img.shields.io/badge/-a.heitzeberg007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.heitzeberg007@gmail.com)](mailto:anthonycheitzeberg@gmail.com)
-<p align="left">
-<a href="https://www.hackerrank.com/a_heitzeberg007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_heitzeberg007" height="30" width="40" /></a>
-</p>
+Welcome to my profile! I'm an Application Development Engineer II working on distributed systems and cloud architecture. I build full-stack applications, design serverless solutions, and enjoy solving complex problems with elegant code. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/anthonyheitzeberg/)!
 
-<a href="https://github.com/anthonyheitzeberg/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=anthonycheitzeberg&style=for-the-badge&base=20000&color=blue">
-</a>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/c9b58168-1841-44c2-b32b-c66310c09395/thumbnail" >
-</p>
+```typescript
+const anthony = {
+  location: "The Woodlands, TX",
+  role: "Application Development Engineer II",
+  company: "Centene Corporation",
+  education: "BS Computer Engineering",
+  focus: [
+    "Cloud Architecture",
+    "Microservices",
+    "Full-Stack Development"
+  ],
+  philosophy: "Building scalable solutions, one commit at a time"
+};
+```
 
-### About Me
-- 🔭 I'm an Application Development Engineer II @ **Centene** under **Apex Systems**
-- ⚽ Football is my favorite sport 🥇
+🔭 **Currently:** Building distributed microservices at Centene with Spring Boot, Node.js, and Python  
+💡 **Impact:** Reduced infrastructure costs by 40% with serverless AWS architectures  
+🌱 **Learning:** Advanced cloud-native patterns and performance optimization  
+⚽ **Fun fact:** Football is my favorite sport
 
-### My GitHub stats 
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyheitzeberg&count_private=true&show_icons=true" />
+## 💻 Tech Stack
 
-### My DevCard
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=openjdk)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
 
-<a href="https://app.daily.dev/anthonyheitzeberg"><img src="https://api.daily.dev/devcards/v2/kkHQAY0PX38BlSxnky6pJ.png?type=wide&r=bvr" width="652" alt="Anthony Heitzeberg's Dev Card"/></a>
+**Frontend**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
 
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb)
+
+## 💼 Experience Highlights
+
+**Application Development Engineer II @ Centene** (Aug 2024 - Present)
+- Built distributed microservices with Spring Boot, Node.js, and Python
+- Designed serverless AWS architectures reducing costs by 40%
+- Eliminated thousands of manual hours through event-driven automation
+- Optimized React dashboards with advanced caching and data loading
+
+**Software Developer @ Miller Solutions** (Mar 2020 - Mar 2024)
+- Crafted full-stack applications with Angular, Vue, React, and Spring Framework
+- Increased user engagement by 40% through enhanced UX features
+- Improved page load times by 25% with performance optimizations
+
+**AWS Certified Cloud Practitioner** (2025)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyheitzeberg/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anthony.heitzeberg@outlook.com)
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anthonycheitzeberg&style=for-the-badge&color=blue">
+
+### ⭐️ From [anthonyheitzeberg](https://github.com/anthonyheitzeberg)
+
+</div>
