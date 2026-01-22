@@ -1,4 +1,4 @@
-# Hi I'm Anthony 👋
+# Hi, I'm Anthony 👋
 
 Welcome to my profile! I'm an Application Development Engineer II working on distributed systems and cloud architecture. I build full-stack applications, design serverless solutions, and enjoy solving complex problems with elegant code. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/anthonyheitzeberg/)!
 
