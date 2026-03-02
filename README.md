@@ -79,6 +79,16 @@ const anthony = {
 
 ---
 
+## My dev cards
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/c9b58168-1841-44c2-b32b-c66310c09395/thumbnail" >
+</p>
+
+<p align="center">
+  <a href="https://app.daily.dev/anthonyheitzeberg"><img src="https://api.daily.dev/devcards/v2/kkHQAY0PX38BlSxnky6pJ.png?type=wide&r=pvh" width="652" alt="Anthony Heitzeberg's Dev Card"/></a>
+</p>
+
 ## 📫 Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities!
