@@ -15,14 +15,14 @@ const anthony = {
     "Microservices",
     "Full-Stack Development"
   ],
-  philosophy: "Building scalable solutions, one commit at a time"
+  philosophy: "Building scalable solutions, one commit at a time",
+  sports: ["Football ⚽"]
 };
 ```
 
 🔭 **Currently:** Building distributed microservices at Centene with Spring Boot, Node.js, and Python  
 💡 **Impact:** Reduced infrastructure costs by 40% with serverless AWS architectures  
 🌱 **Learning:** Advanced cloud-native patterns and performance optimization  
-⚽ **Fun fact:** Football is my favorite sport
 
 ---
 
