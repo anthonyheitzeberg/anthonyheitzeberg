@@ -1,16 +1,17 @@
 # Hi, I'm Anthony 👋
 
-Welcome to my profile! I'm an Application Development Engineer II working on distributed systems and cloud architecture. I build full-stack applications, design serverless solutions, and enjoy solving complex problems with elegant code. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/anthonyheitzeberg/)!
+Welcome to my profile! I'm a Software Engineer working on distributed systems and cloud architecture. I build full-stack applications, design serverless solutions, and enjoy solving complex problems with elegant code. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/anthonyheitzeberg/)!
 
 ## 🚀 About Me
 
 ```typescript
 const anthony = {
-  location: "The Woodlands, TX",
-  role: "Application Development Engineer II",
-  company: "Centene Corporation",
+  location: "Texas, USA",
+  role: "Software Engineer",
+  company: "Fidelity Investments",
   education: "BS Computer Engineering",
   focus: [
+    "Blockchain",
     "Cloud Architecture",
     "Microservices",
     "Full-Stack Development"
@@ -22,7 +23,7 @@ const anthony = {
 
 🔭 **Currently:** Building distributed microservices at Centene with Spring Boot, Node.js, and Python  
 💡 **Impact:** Reduced infrastructure costs by 40% with serverless AWS architectures  
-🌱 **Learning:** Advanced cloud-native patterns and performance optimization  
+🌱 **Learning:** Basics of Blockchain
 
 ---
 
