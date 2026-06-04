@@ -65,7 +65,7 @@ const anthony = {
 
 ## 💼 Experience Highlights
 
-**Application Development Engineer II @ Centene** (Aug 2024 - Present)
+**Application Development Engineer II @ Centene** (Aug 2024 - May 2026)
 - Built distributed microservices with Spring Boot, Node.js, and Python
 - Designed serverless AWS architectures reducing costs by 40%
 - Eliminated thousands of manual hours through event-driven automation
