@@ -17,14 +17,9 @@ const anthony = {
     "Full-Stack Development"
   ],
   philosophy: "Building scalable solutions, one commit at a time",
-  sports: ["Football ⚽"]
+  sports: ["Football ⚽", "Ping-pong 🏓"]
 };
 ```
-
-🔭 **Currently:** Building distributed microservices at Centene with Spring Boot, Node.js, and Python  
-💡 **Impact:** Reduced infrastructure costs by 40% with serverless AWS architectures  
-🌱 **Learning:** Basics of Blockchain
-
 ---
 
 ## 💻 Tech Stack
